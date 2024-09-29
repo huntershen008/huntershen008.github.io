@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[4083],{6628:a=>{a.exports=JSON.parse('{"label":"GSK","permalink":"/blog/tags/gsk","allTagsPath":"/blog/tags","count":1}')}}]);
