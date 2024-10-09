@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[8259],{7287:a=>{a.exports=JSON.parse('{"label":"Fact-Checking","permalink":"/blog/tags/fact-checking","allTagsPath":"/blog/tags","count":1}')}}]);

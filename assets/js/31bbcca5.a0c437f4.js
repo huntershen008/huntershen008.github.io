@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[2283],{4384:a=>{a.exports=JSON.parse('{"label":"Medical Language Complexity","permalink":"/blog/tags/medical-language-complexity","allTagsPath":"/blog/tags","count":1}')}}]);

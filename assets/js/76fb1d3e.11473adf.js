@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[1191],{3257:a=>{a.exports=JSON.parse('{"label":"AuroraPrime Create","permalink":"/blog/tags/aurora-prime-create","allTagsPath":"/blog/tags","count":2}')}}]);
