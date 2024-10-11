@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[5932],{6240:e=>{e.exports=JSON.parse('{"label":"Knowledge Preservation","permalink":"/blog/tags/knowledge-preservation","allTagsPath":"/blog/tags","count":1}')}}]);

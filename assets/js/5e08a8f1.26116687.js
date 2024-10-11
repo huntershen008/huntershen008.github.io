@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[1413],{9219:e=>{e.exports=JSON.parse('{"label":"Improved Efficiency","permalink":"/blog/tags/improved-efficiency","allTagsPath":"/blog/tags","count":1}')}}]);
