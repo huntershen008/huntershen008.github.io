@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[9700],{3810:a=>{a.exports=JSON.parse('{"label":"Lean","permalink":"/blog/tags/lean","allTagsPath":"/blog/tags","count":1}')}}]);
