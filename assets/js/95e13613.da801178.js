@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[3111],{6515:a=>{a.exports=JSON.parse('{"label":"Regulatory documents","permalink":"/blog/tags/regulatory-documents","allTagsPath":"/blog/tags","count":1}')}}]);
