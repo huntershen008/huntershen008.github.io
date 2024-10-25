@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[184],{4967:a=>{a.exports=JSON.parse('{"label":"AMA Manual of Style","permalink":"/blog/tags/ama-manual-of-style","allTagsPath":"/blog/tags","count":1}')}}]);

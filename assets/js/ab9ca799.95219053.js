@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[1967],{8739:e=>{e.exports=JSON.parse('{"label":"Content Generation Rule Configuration","permalink":"/blog/tags/content-generation-rule-configuration","allTagsPath":"/blog/tags","count":1}')}}]);
