@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[2722],{3334:a=>{a.exports=JSON.parse('{"label":"Data Grouping","permalink":"/blog/tags/data-grouping","allTagsPath":"/blog/tags","count":1}')}}]);

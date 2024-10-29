@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[9247],{1637:a=>{a.exports=JSON.parse('{"label":"Summarize Key Data","permalink":"/blog/tags/summarize-key-data","allTagsPath":"/blog/tags","count":1}')}}]);

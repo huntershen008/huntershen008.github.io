@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[2693],{1828:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/tables-figures-and-listings-tf-ls","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

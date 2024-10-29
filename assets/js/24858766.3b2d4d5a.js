@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[21],{980:s=>{s.exports=JSON.parse('{"label":"Tables, Figures, and Listings (TFLs)","permalink":"/blog/tags/tables-figures-and-listings-tf-ls","allTagsPath":"/blog/tags","count":1}')}}]);
