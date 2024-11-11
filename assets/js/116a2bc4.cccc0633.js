@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[717],{2423:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/create/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/blog/tags/create","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

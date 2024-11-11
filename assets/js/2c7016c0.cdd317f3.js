@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[5525],{3716:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/aurora-prime/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":12,"previousPage":"/blog/tags/aurora-prime","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

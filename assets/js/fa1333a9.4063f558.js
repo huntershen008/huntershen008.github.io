@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaurorahelp=self.webpackChunkaurorahelp||[]).push([[35],{1118:a=>{a.exports=JSON.parse('{"label":"Study","permalink":"/blog/tags/study","allTagsPath":"/blog/tags","count":1}')}}]);
